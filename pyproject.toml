@@ -1,0 +1,10 @@
+[project]
+name = "shipwell"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "django>=4.2",
+    "djangorestframework>=3.14",
+    "djangorestframework-stubs>=3.18.1",
+    "requests>=2.31",
+]
